@@ -189,7 +189,7 @@
     "typescript-json-schema": "^0.50.1",
     "vite": "^4.4.7",
     "vkbeautify": "^0.99.1",
-    "ws": "^8.13.0",
+    "ws": "^8.17.1",
     "xpath": "0.0.32"
   },
   "dev": {

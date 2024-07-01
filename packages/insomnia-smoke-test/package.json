@@ -44,7 +44,7 @@
     "jest": "^28.1.0",
     "oidc-provider": "^7.10.6",
     "uuid": "^8.3.2",
-    "ws": "^8.13.0",
+    "ws": "^8.17.1",
     "xvfb-maybe": "^0.2.1"
   },
   "description": "[![Playwright](https://img.shields.io/badge/playwright-blue.svg?style=for-the-badge&logo=playwright)](https://github.com/microsoft/playwright)",
